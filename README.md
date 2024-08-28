@@ -1,6 +1,6 @@
 # Hi, I'm Kenny Bush! 👋
 
-!Profile Picture
+![](https://github.com/assets/img/headshot.png)
 
 ## About Me
 I'm a Data Science student specializing in AI and Machine Learning, based in Portsmouth, Virginia. As a former Navy Chief, I've transitioned into a consulting role, assisting a startup in business intelligence development. My goal is to broaden my skill set for both professional growth and personal ventures.
