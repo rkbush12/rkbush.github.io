@@ -10,7 +10,7 @@ I'm a Data Science student specializing in AI and Machine Learning, based in Por
 
 ## Resume
 Click here to view my resume
-<a href="path/to/your/resume.pdf" download>Download my resume</a>
+<a href="assets/Kenny Bush Resume Civilian July 2024.pdf" download>Download my resume</a>
 
 
 ## Connect with Me
