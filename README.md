@@ -1,15 +1,14 @@
-# Hi, I'm Kenny Bush! 👋
+# Hello, I'm Kenny Bush!
 
 ## About Me
-I'm a Data Science student specializing in AI and Machine Learning, based in Portsmouth, Virginia. As a former Navy Chief, I've transitioned into a consulting role, assisting a startup in business intelligence development. My goal is to broaden my skill set for both professional growth and personal ventures.
+I'm a Data Science student concentrating in Artificial Intellegence and Machine Learning, based in Portsmouth, Virginia. As a former Navy Chief, I've transitioned into a consulting role, assisting a startup in business intelligence development. My goal is to broaden my skill set for both professional growth and personal ventures.
 
 ## Skills
-- **Languages:** Python, R, SQL
+- **Languages:** Python, R, SQL, DAX
 - **Frameworks:** TensorFlow, PyTorch, Scikit-learn
-- **Tools:** Git, Docker, Jupyter
+- **Tools:** Git, Colab, Jupyter
 
 ## Resume
-Click here to view my resume
 <a href="assets/Kenny Bush Resume Civilian July 2024.pdf" download>Download my resume</a>
 
 
